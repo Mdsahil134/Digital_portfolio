@@ -188,8 +188,9 @@ export function Resume() {
         className="mt-10 flex justify-center"
       >
         <a
-          href="/Downloads/sahil CV new.pdf"
-          download="MD_Sahil_Resume.pdf"
+          href="https://drive.google.com/file/d/1Abb6HMakVrk4TP_dmcWNpoYJTvb78bnc/view?usp=drive_link"
+          target="_blank"
+          rel="noreferrer"
           className="group inline-flex items-center gap-2 rounded-full bg-slate-900 px-6 py-3 text-sm font-semibold text-white shadow-md transition-all duration-300 hover:-translate-y-0.5 hover:bg-slate-800 hover:shadow-xl active:translate-y-0 dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100"
         >
           Download Resume
